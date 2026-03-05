@@ -3,3 +3,4 @@ requests==2.31.0
 pandas==2.2.1
 plotly==5.18.0
 streamlit-geolocation
+plotly.express
